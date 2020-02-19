@@ -3,11 +3,7 @@
 	background-color: White;
 }
 
-body
-{
-	font-family: monospace;
-}
-h1
+h1 
 {
   text-shadow: 2px 2px red;
 }
