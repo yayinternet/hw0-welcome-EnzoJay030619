@@ -1,8 +1,9 @@
 .abc
 {
-	background-color: white;
-	
-	 font-family: monospace;
-
+	background-color: White;
 }
 
+body
+{
+	font-family: monospace;
+}
